@@ -1,0 +1,1 @@
+This project will consist of a recreation of google.com's homepage.
